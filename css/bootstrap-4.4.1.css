@@ -4348,7 +4348,7 @@ input[type="button"].btn-block {
   display: inline-block;
   padding-top: 0.3125rem;
   padding-bottom: 0.3125rem;
-  margin-right: .1rem;
+  margin-right: 1rem;
   font-size: 1.rem;
   line-height: inherit;
   white-space: nowrap;
@@ -8038,7 +8038,7 @@ button.bg-dark:focus {
 }
 
 .w-100 {
-  width: 120% !important;
+  width: 100% !important;
 }
 
 .w-auto {
