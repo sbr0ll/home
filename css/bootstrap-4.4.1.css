@@ -758,6 +758,8 @@ pre code {
   -ms-flex: 0 0 100%;
   flex: 0 0 100%;
   max-width: 100%;
+	
+	
 }
 
 .order-first {
@@ -6431,6 +6433,7 @@ a.close.disabled {
   transition: -webkit-transform 0.6s ease-in-out;
   transition: transform 0.6s ease-in-out;
   transition: transform 0.6s ease-in-out, -webkit-transform 0.6s ease-in-out;
+	
 }
 
 @media (prefers-reduced-motion: reduce) {
@@ -6921,6 +6924,7 @@ button.bg-dark:focus {
 
 .d-block {
   display: block !important;
+
 }
 
 .d-table {
